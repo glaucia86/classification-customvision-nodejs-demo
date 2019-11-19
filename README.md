@@ -1,6 +1,6 @@
 # Demo - Classificação de Imagens com Custom Vision & Node.js
 
-[![Screen-Shot-11-18-19-at-09-56-PM.png](https://i.postimg.cc/ZRhBFQs9/Screen-Shot-11-18-19-at-09-56-PM.png)](https://postimg.cc/2q2SC0Dm)
+[![custom-vision.jpg](https://i.postimg.cc/ZnJhcPhF/custom-vision.jpg)](https://postimg.cc/8JX3k6cj)
 
 Repositório responsável pela demo usando Face Api com Node.js, baseado no artigo escrito por mim no dev.to **[AQUI]()**
 
